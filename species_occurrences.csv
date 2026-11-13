@@ -1,0 +1,153 @@
+id,species,habitat,latitude,longitude,date,count
+1,Canis aureus,Oak forest,35.8446,2.16555,2026-04-15,5
+2,Hystrix cristata,Oak forest,35.81947,1.97789,2026-05-14,4
+3,Hyaena hyaena,Scrub,35.83397,2.03776,2026-06-15,4
+4,Vulpes vulpes,Cedar forest,35.90312,2.03746,2026-03-24,2
+5,Canis aureus,Oak forest,35.88061,2.00737,2026-06-10,3
+6,Vulpes vulpes,Cedar forest,36.00278,2.01162,2026-05-20,1
+7,Hystrix cristata,Oak forest,35.83598,2.02161,2026-06-13,1
+8,Hystrix cristata,Oak forest,35.81737,2.03679,2026-04-16,1
+9,Atelerix algirus,Meadow,35.9069,2.09497,2026-03-28,
+10,Vulpes vulpes,Cedar forest,35.91271,2.02841,2026-03-23,3
+11,Hystrix cristata,Oak forest,35.82642,1.98901,2026-06-15,4
+12,Vulpes vulpes,Cedar forest,35.89515,1.94299,2026-06-22,2
+13,Hyaena hyaena,Scrub,35.85697,2.04403,2026-05-10,5
+14,Hyaena hyaena,Scrub,35.81501,2.05923,2026-03-14,1
+15,Hyaena hyaena,Scrub,35.82055,2.04279,2026-06-12,3
+16,Hyaena hyaena,Scrub,35.83706,2.03746,2026-05-24,3
+17,Hyaena hyaena,Scrub,35.82967,2.04588,2026-04-14,4
+18,Canis aureus,Oak forest,35.82915,1.96292,2026-04-22,2
+19,Atelerix algirus,Meadow,35.91555,2.05969,2026-03-26,
+20,Atelerix algirus,Meadow,35.89151,2.06458,2026-06-19,
+21,Vulpes vulpes,Cedar forest,35.89777,2.04544,2026-03-18,4
+22,Hyaena hyaena,Scrub,35.83167,2.03995,2026-06-17,4
+23,Hyaena hyaena,Scrub,35.86105,2.02054,2026-03-21,2
+24,Hyaena hyaena,Scrub,35.87122,2.02259,2026-04-28,5
+25,Hyaena hyaena,Scrub,35.78622,2.02289,2026-03-25,1
+26,Hyaena hyaena,Scrub,35.84646,2.16172,2026-03-14,3
+27,Hystrix cristata,Oak forest,35.86049,1.96731,2026-06-10,1
+28,Atelerix algirus,Meadow,35.89265,2.05264,2026-03-12,
+29,Hyaena hyaena,Scrub,35.8381,2.08525,2026-05-22,6
+30,Atelerix algirus,Meadow,35.91731,2.04311,2026-03-26,
+31,Hystrix cristata,Cedar forest,35.83216,1.97204,2026-03-25,6
+32,Hystrix cristata,Oak forest,35.83458,1.93696,2026-05-14,3
+33,Vulpes vulpes,Cedar forest,35.95706,2.06155,2026-06-25,6
+34,Atelerix algirus,Meadow,35.89564,2.06162,2026-06-16,
+35,Atelerix algirus,Meadow,35.89912,2.0511,2026-04-14,
+36,Vulpes vulpes,Cedar forest,35.86152,2.05748,2026-04-13,3
+37,Canis aureus,Oak forest,35.89023,2.00694,2026-06-20,6
+38,Hystrix cristata,Oak forest,35.81449,1.97444,2026-05-11,1
+39,Vulpes vulpes,Cedar forest,35.93445,2.00355,2026-03-14,5
+40,Canis aureus,Oak forest,35.83656,2.00284,2026-03-13,2
+41,Canis aureus,Oak forest,35.81496,1.96941,2026-04-16,1
+42,Hystrix cristata,Oak forest,35.78912,1.98065,2026-03-15,5
+43,Canis aureus,Oak forest,35.84206,1.92958,2026-04-22,5
+44,Hystrix cristata,Oak forest,35.85536,1.99419,2026-06-14,6
+45,Canis aureus,Oak forest,35.85773,2.00265,2026-05-24,5
+46,Canis aureus,Oak forest,35.89505,2.0489,2026-03-16,6
+47,Canis aureus,Oak forest,35.87355,2.022,2026-05-10,3
+48,Canis aureus,Meadow,35.88628,1.98284,2026-06-10,3
+49,Hyaena hyaena,Scrub,35.84254,2.0347,2026-05-14,5
+50,Vulpes vulpes,Cedar forest,35.87879,2.05941,2026-06-25,6
+51,Vulpes vulpes,Cedar forest,35.86776,2.16911,2026-04-26,6
+52,Vulpes vulpes,Cedar forest,35.94471,2.02817,2026-04-19,5
+53,Atelerix algirus,Meadow,35.90505,2.03776,2026-04-23,
+54,Vulpes vulpes,Cedar forest,35.89563,2.02438,2026-06-27,1
+55,Hystrix cristata,Oak forest,35.83216,1.95175,2026-06-23,1
+56,Atelerix algirus,Meadow,35.92065,2.05451,2026-06-14,
+57,Canis aureus,Oak forest,35.83349,2.062,2026-05-13,5
+58,Hyaena hyaena,Scrub,35.83476,2.05033,2026-03-16,1
+59,Hyaena hyaena,Scrub,35.85854,2.03098,2026-06-13,5
+60,Vulpes vulpes,Cedar forest,35.86637,2.05506,2026-04-26,6
+61,Atelerix algirus,Meadow,35.87921,2.08573,2026-04-27,
+62,Vulpes vulpes,Cedar forest,35.86681,2.05452,2026-04-21,2
+63,Atelerix algirus,Meadow,35.96193,2.04753,2026-04-16,
+64,Atelerix algirus,Oak forest,35.91795,2.07723,2026-06-13,
+65,Canis aureus,Oak forest,35.84741,1.95486,2026-06-10,2
+66,Hyaena hyaena,Scrub,35.87183,2.01447,2026-03-26,3
+67,Vulpes vulpes,Cedar forest,35.8995,2.08675,2026-06-13,1
+68,Hyaena hyaena,Scrub,35.8088,2.00386,2026-04-16,4
+69,Hyaena hyaena,Scrub,35.78349,2.07597,2026-03-28,6
+70,Hyaena hyaena,Scrub,35.84883,2.00363,2026-06-24,3
+71,Canis aureus,Oak forest,35.88809,2.0072,2026-03-16,6
+72,Hyaena hyaena,Scrub,35.81762,2.0385,2026-04-13,2
+73,Vulpes vulpes,Cedar forest,35.8556,2.04496,2026-06-28,6
+74,Vulpes vulpes,Cedar forest,35.89411,2.08391,2026-05-13,3
+75,Hystrix cristata,Oak forest,35.80657,2.00008,2026-05-23,3
+76,Hystrix cristata,Oak forest,35.82058,2.15392,2026-03-10,4
+77,Atelerix algirus,Meadow,35.90542,2.07653,2026-05-19,
+78,Canis aureus,Oak forest,35.84432,1.96646,2026-06-16,4
+79,Hystrix cristata,Oak forest,35.82933,1.99533,2026-03-17,5
+80,Canis aureus,Oak forest,35.86617,2.0188,2026-03-13,4
+81,Canis aureus,Oak forest,35.89148,1.97979,2026-03-24,4
+82,Hystrix cristata,Cedar forest,35.86866,1.94535,2026-06-15,4
+83,Atelerix algirus,Meadow,35.8949,2.04824,2026-06-23,
+84,Canis aureus,Oak forest,35.89409,1.98591,2026-05-27,4
+85,Atelerix algirus,Meadow,35.90417,2.06992,2026-04-28,
+86,Hyaena hyaena,Scrub,35.81814,2.04064,2026-06-11,3
+87,Vulpes vulpes,Cedar forest,35.94863,2.0074,2026-06-25,2
+88,Canis aureus,Oak forest,35.86385,2.01311,2026-06-14,6
+89,Atelerix algirus,Meadow,35.90251,2.06017,2026-06-24,
+90,Hyaena hyaena,Scrub,35.85,2.03207,2026-06-14,3
+91,Vulpes vulpes,Cedar forest,35.93952,2.02698,2026-05-26,4
+92,Hystrix cristata,Scrub,35.81164,1.98818,2026-05-26,1
+93,Vulpes vulpes,Cedar forest,35.94519,2.02386,2026-04-18,5
+94,Hystrix cristata,Oak forest,35.8998,1.99046,2026-03-11,2
+95,Hyaena hyaena,Scrub,35.84103,2.04604,2026-05-12,2
+96,Hystrix cristata,Oak forest,35.84549,1.99972,2026-06-25,3
+97,Canis aureus,Oak forest,35.86056,1.98396,2026-03-24,1
+98,Hystrix cristata,Oak forest,35.81281,1.99203,2026-05-22,4
+99,Hystrix cristata,Oak forest,35.76815,1.9472,2026-05-27,3
+100,Hystrix cristata,Oak forest,35.86331,2.0047,2026-03-24,5
+101,Atelerix algirus,Cedar forest,35.92342,2.18707,2026-06-19,
+102,Hystrix cristata,Scrub,35.86585,1.99843,2026-05-25,1
+103,Hystrix cristata,Oak forest,35.84359,1.98715,2026-05-21,3
+104,Atelerix algirus,Meadow,35.92218,2.03868,2026-05-24,
+105,Vulpes vulpes,Cedar forest,35.9055,2.00951,2026-04-12,6
+106,Canis aureus,Oak forest,35.88279,1.98033,2026-04-28,4
+107,Canis aureus,Oak forest,35.89316,2.0226,2026-04-12,2
+108,Hystrix cristata,Oak forest,35.8352,1.98896,2026-03-27,5
+109,Hyaena hyaena,Scrub,35.84591,2.08182,2026-03-28,4
+110,Vulpes vulpes,Cedar forest,35.90624,2.0407,2026-03-20,6
+111,Hyaena hyaena,Scrub,35.86861,2.06252,2026-06-17,6
+112,Hystrix cristata,Oak forest,35.81756,2.009,2026-06-21,4
+113,Canis aureus,Oak forest,35.82908,1.9836,2026-03-11,5
+114,Canis aureus,Oak forest,35.80907,1.97062,2026-03-24,4
+115,Atelerix algirus,Meadow,35.90413,2.0311,2026-03-23,
+116,Atelerix algirus,Meadow,35.92487,2.0704,2026-06-15,
+117,Canis aureus,Oak forest,35.85564,1.97639,2026-06-19,1
+118,Hystrix cristata,Oak forest,35.87654,2.02141,2026-06-10,1
+119,Vulpes vulpes,Cedar forest,35.90326,2.04402,2026-05-16,2
+120,Vulpes vulpes,Cedar forest,35.90628,1.99479,2026-04-18,4
+121,Canis aureus,Oak forest,35.84385,2.0389,2026-06-18,5
+122,Vulpes vulpes,Cedar forest,35.88789,2.07238,2026-06-17,1
+123,Canis aureus,Oak forest,35.90011,2.03568,2026-05-11,5
+124,Vulpes vulpes,Cedar forest,35.90232,2.06386,2026-06-17,3
+125,Hystrix cristata,Oak forest,35.8422,1.99804,2026-04-18,3
+126,Atelerix algirus,Meadow,35.94018,2.17336,2026-03-14,
+127,Vulpes vulpes,Cedar forest,35.96407,2.04892,2026-04-12,2
+128,Canis aureus,Oak forest,35.849,1.93798,2026-06-12,6
+129,Atelerix algirus,Meadow,35.89339,2.08328,2026-04-23,
+130,Hyaena hyaena,Scrub,35.81676,2.04465,2026-06-26,1
+131,Vulpes vulpes,Cedar forest,35.89412,2.05548,2026-03-27,4
+132,Canis aureus,Oak forest,35.83235,1.99385,2026-04-13,6
+133,Vulpes vulpes,Cedar forest,35.84746,2.02889,2026-06-10,1
+134,Atelerix algirus,Meadow,35.91323,2.04941,2026-03-24,
+135,Hystrix cristata,Oak forest,35.79697,2.0123,2026-04-19,5
+136,Vulpes vulpes,Cedar forest,35.82553,2.02987,2026-03-18,4
+137,Hyaena hyaena,Scrub,35.85204,2.05463,2026-06-20,3
+138,Canis aureus,Oak forest,35.88498,2.03355,2026-04-15,2
+139,Hyaena hyaena,Meadow,35.83474,2.03202,2026-03-15,2
+140,Atelerix algirus,Meadow,35.88734,2.07304,2026-06-26,
+141,Hyaena hyaena,Scrub,35.86703,2.06017,2026-05-23,4
+142,Vulpes vulpes,Cedar forest,35.88289,2.01012,2026-03-18,2
+143,Canis aureus,Oak forest,35.84846,1.99169,2026-04-26,4
+144,Canis aureus,Oak forest,35.88852,2.0379,2026-05-27,3
+145,Canis aureus,Oak forest,35.85669,1.96094,2026-04-28,2
+146,Atelerix algirus,Meadow,35.91987,2.07335,2026-04-25,
+147,Vulpes vulpes,Cedar forest,35.96065,1.99706,2026-05-24,3
+148,Atelerix algirus,Meadow,35.89169,2.06766,2026-03-27,
+149,Atelerix algirus,Meadow,35.85672,2.06857,2026-05-14,
+150,Hyaena hyaena,Scrub,35.88554,2.02874,2026-05-15,2
+151,Hyaena hyaena,Scrub,,,2026-05-12,2
+152,Vulpes vulpes,Cedar forest,35.90312,2.03746,2026-03-24,2
